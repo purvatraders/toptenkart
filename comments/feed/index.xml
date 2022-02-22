@@ -9,9 +9,9 @@
 	<title>
 	Comments for TopTenKart	</title>
 	<atom:link href="http://localhost/toptenkart/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://toptenkart.com</link>
+	<link>./../../index.html</link>
 	<description>Cart where you get top ten products</description>
-	<lastBuildDate>Mon, 21 Feb 2022 19:57:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Feb 2022 05:48:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
